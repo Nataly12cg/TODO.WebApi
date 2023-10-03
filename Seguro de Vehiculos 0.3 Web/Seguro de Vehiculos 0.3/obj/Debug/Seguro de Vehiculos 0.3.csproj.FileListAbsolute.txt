@@ -1,2 +1,0 @@
-C:\Users\Miguel\TODO.WebApi\Seguro de Vehiculos 0.3 Web\Seguro de Vehiculos 0.3\obj\Debug\Seguro de Vehiculos 0.3.csproj.AssemblyReference.cache
-C:\Users\Miguel\TODO.WebApi\Seguro de Vehiculos 0.3 Web\Seguro de Vehiculos 0.3\obj\Debug\Seguro de Vehiculos 0.3.csproj.CoreCompileInputs.cache
